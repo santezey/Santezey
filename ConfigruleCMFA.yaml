@@ -48,7 +48,7 @@ proxies:
         Host: nautica.foolvpn.me
     udp: true
   - name: Herza.ID WS TLS [nautica]
-    server: nautica.foolvpn.me
+    server: nontontv.vidio.com
     port: 443
     type: vless
     uuid: e8df5432-2e54-42bc-ba99-6f2477d0a269
