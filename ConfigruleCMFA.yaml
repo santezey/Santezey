@@ -47,20 +47,20 @@ proxies:
       headers:
         Host: nautica.foolvpn.me
     udp: true
-  - name: AKUN2
-    server: quiz.int.vidio.com
+  - name: Herza.ID WS TLS [nautica]
+    server: nautica.foolvpn.me
     port: 443
     type: vless
-    uuid: 9cf9a9b0-2e2e-45bd-ac6f-5eaa44e30cfe
+    uuid: e8df5432-2e54-42bc-ba99-6f2477d0a269
     cipher: auto
     tls: true
     skip-cert-verify: true
-    servername: id1vless.ipservers.xyz
+    servername: nautica.foolvpn.me
     network: ws
     ws-opts:
-      path: /jagoanssh
+      path: /103.168.146.169-20132
       headers:
-        Host: id1vless.ipservers.xyz
+        Host: nautica.foolvpn.me
     udp: true
   - name: AKUN3
     server: quiz.int.vidio.com
@@ -85,7 +85,7 @@ proxy-groups:
     interval: 300
     proxies:
       - AKUN1
-      - AKUN2
+      - Herza.ID WS TLS [nautica]
       - AKUN3
 
   - name: MIX-X
@@ -94,7 +94,7 @@ proxy-groups:
     interval: 300
     proxies:
       - AKUN1
-      - AKUN2
+      - Herza.ID WS TLS [nautica]
       - AKUN3
       
   - name: IKLAN
