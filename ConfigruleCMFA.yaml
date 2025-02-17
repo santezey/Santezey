@@ -32,7 +32,7 @@ dns:
     - 1.1.1.1
     - 112.215.203.254
 proxies:
-    - name: AKUN1
+  - name: AKUN1
     server: nontontv.vidio.com
     port: 443
     type: vless
