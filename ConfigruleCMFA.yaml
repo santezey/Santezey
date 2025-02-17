@@ -47,7 +47,7 @@ proxies:
       headers:
         Host: nautica.foolvpn.me
     udp: true
-  - name: Herza.ID WS TLS [nautica]
+  - name: AKUN2
     server: nontontv.vidio.com
     port: 443
     type: vless
@@ -85,7 +85,7 @@ proxy-groups:
     interval: 300
     proxies:
       - AKUN1
-      - Herza.ID WS TLS [nautica]
+      - AKUN2
       - AKUN3
 
   - name: MIX-X
@@ -94,7 +94,7 @@ proxy-groups:
     interval: 300
     proxies:
       - AKUN1
-      - Herza.ID WS TLS [nautica]
+      - AKUN2
       - AKUN3
       
   - name: IKLAN
