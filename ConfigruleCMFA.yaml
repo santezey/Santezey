@@ -33,7 +33,7 @@ dns:
     - 112.215.203.254
 proxies:
   - name: AKUN1
-    server: nontontv.vidio.com
+    server: ava.game.naver.com
     port: 443
     type: vless
     uuid: 88230e9a-f26f-45ba-9a8c-4a80633093f9
