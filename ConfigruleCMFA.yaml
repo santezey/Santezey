@@ -48,17 +48,17 @@ proxies:
         Host: nautica.foolvpn.me
     udp: true
   - name: AKUN2
-    server: nontontv.vidio.com
+    server: ava.game.naver.com
     port: 443
     type: vless
-    uuid: e8df5432-2e54-42bc-ba99-6f2477d0a269
+    uuid: 7803c976-7e71-4268-bf46-179973238a9e
     cipher: auto
     tls: true
     skip-cert-verify: true
     servername: nautica.foolvpn.me
     network: ws
     ws-opts:
-      path: /103.168.146.169-20132
+      path: /45.195.76.190-29690
       headers:
         Host: nautica.foolvpn.me
     udp: true
